@@ -6,7 +6,7 @@ Este App é parte integrante de um sistema de folha de pagamento arquitetado e d
 
 ## 1. Registro de Ponto (Android App)
 
-O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira conveniente.
+O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira simples.
 
 ## 2. Portal do Funcionário
 
