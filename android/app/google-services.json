@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437824673908",
+    "project_id": "rhs-folha-de-ponto",
+    "storage_bucket": "rhs-folha-de-ponto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437824673908:android:79448396fc8e0e25665921",
+        "android_client_info": {
+          "package_name": "com.devcoast.folha_de_ponto_rhs.folha_de_ponto_rhs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD98Ze60d8L5sXDBneYZwwh26YQwo_U3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437824673908:android:3f396e66d1653434665921",
+        "android_client_info": {
+          "package_name": "devcoast.meu_primeiro_projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD98Ze60d8L5sXDBneYZwwh26YQwo_U3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
